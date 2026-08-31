@@ -25,13 +25,13 @@ I enjoy turning ideas into working products using **Python, Django, React, REST 
 
 ## 🛠️ Tech Stack
 
-| Category        | Technologies                                       |
-| --------------- | -------------------------------------------------- |
-| **Languages**   | Python, JavaScript, HTML5, CSS3                    |
-| **Frontend**    | React.js, Tailwind CSS, Bootstrap                  |
-| **Backend**     | Django, Django REST Framework, Node.js, Express.js |
-| **Databases**   | MySQL, MongoDB, SQLite                             |
-| **API & Tools** | REST APIs, Postman, Git, GitHub, VS Code           |
+ Category         Technologies                                       
+ ---------------  -------------------------------------------------- 
+ **Languages**   | Python, JavaScript, HTML5, CSS3                    
+ **Frontend**    | React.js, Tailwind CSS, Bootstrap                  
+ **Backend**     | Django, Django REST Framework, Node.js, Express.js 
+ **Databases**   | MySQL, MongoDB, SQLite                             
+ **API & Tools** | REST APIs, Postman, Git, GitHub, VS Code           
 
 ## 💻 Featured Projects
 
