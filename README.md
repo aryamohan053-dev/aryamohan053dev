@@ -25,13 +25,15 @@ I enjoy turning ideas into working products using **Python, Django, React, REST 
 
 ## 🛠️ Tech Stack
 
- Category         Technologies                                       
- ---------------  -------------------------------------------------- 
- **Languages**   | Python, JavaScript, HTML5, CSS3                    
- **Frontend**    | React.js, Tailwind CSS, Bootstrap                  
- **Backend**     | Django, Django REST Framework, Node.js, Express.js 
- **Databases**   | MySQL, MongoDB, SQLite                             
- **API & Tools** | REST APIs, Postman, Git, GitHub, VS Code           
+| Category        | Technologies                                       |
+| --------------- | -------------------------------------------------- |
+| **Languages**   | Python, JavaScript, HTML5, CSS3                    |
+| **Frontend**    | React.js, Tailwind CSS, Bootstrap                  |
+| **Backend**     | Django, Django REST Framework, Node.js, Express.js |
+| **Databases**   | MySQL, MongoDB, SQLite                             |
+| **API & Tools** | REST APIs, Postman, Git, GitHub, VS Code           |
+
+---
 
 ## 💻 Featured Projects
 
@@ -47,7 +49,7 @@ A full-stack patient management application with a **React frontend** and **Djan
 * Backend API development
 * API testing using Postman
 
-**Tech:** `React.js` `Django` `Python` `REST API`
+**Technologies:** `React.js` `Django` `Python` `REST API`
 
 ---
 
@@ -65,7 +67,7 @@ A modern full-stack e-commerce application with authentication, products, cart, 
 * REST API integration
 * MongoDB database
 
-**Tech:** `React.js` `Node.js` `Express.js` `MongoDB`
+**Technologies:** `React.js` `Node.js` `Express.js` `MongoDB`
 
 ---
 
@@ -82,7 +84,7 @@ An alumni management platform designed to connect students and alumni while prov
 * Block / unblock users
 * Events and alumni management
 
-**Tech:** `Python` `Django` `MySQL` `HTML` `CSS` `JavaScript`
+**Technologies:** `Python` `Django` `MySQL` `HTML` `CSS` `JavaScript`
 
 ---
 
@@ -90,7 +92,7 @@ An alumni management platform designed to connect students and alumni while prov
 
 A React-based application combining text translation functionality with random content generation and API integration.
 
-**Tech:** `React.js` `JavaScript` `Tailwind CSS` `API Integration`
+**Technologies:** `React.js` `JavaScript` `Tailwind CSS` `API Integration`
 
 ---
 
@@ -108,7 +110,7 @@ A React-based application combining text translation functionality with random c
      MySQL / MongoDB
 ```
 
-### I enjoy building:
+### I Enjoy Building
 
 * 🌐 Full-stack web applications
 * 🔗 REST APIs
@@ -130,7 +132,7 @@ My goal is to grow as a **Python Full Stack Developer** by working on real-world
 
 **LinkedIn:** [linkedin.com/in/arya-ta](https://www.linkedin.com/in/arya-ta)
 
-**GitHub:** [github.com/aryamohan053dev](https://github.com/aryamohan053dev)
+**GitHub:** [github.com/aryamohan053-dev](https://github.com/aryamohan053-dev)
 
 **Email:** [aryamohan053@gmail.com](mailto:aryamohan053@gmail.com)
 
