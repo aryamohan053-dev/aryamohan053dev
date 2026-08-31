@@ -33,6 +33,7 @@ I enjoy turning ideas into working products using **Python, Django, React, REST 
 | **Databases**   | MySQL, MongoDB, SQLite                             |
 | **API & Tools** | REST APIs, Postman, Git, GitHub, VS Code           |
 
+
 ---
 
 ## 💻 Featured Projects
